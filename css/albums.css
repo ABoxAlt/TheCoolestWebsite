@@ -1,0 +1,71 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #b2cfd4;
+}
+
+#webpageTitle {
+  text-align: center;
+}
+
+.lowerAlbumText {
+  position: absolute;
+  left: 310px;
+  top: 50px;
+}
+
+.sect {
+  position: relative;
+  display: inline-block;
+  height: 300px;
+  width: 600px;
+}
+
+.subsect {
+  position: relative;
+  display: inline-block;
+  height: 200px;
+  width: 400px;
+}
+
+.albumCover {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+}
+
+.subAlbumCover {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+}
+
+.albumTitle {
+  position: absolute;
+  left: 310px;
+  top: -20px;
+}
+
+.songTitle {
+  position: absolute;
+  left: 210px;
+  top: -20px;
+}
+
+.albumText {
+  position: absolute;
+  left: 310px;
+  top: 20px;
+}
+
+.songText {
+  position: absolute;
+  left: 210px;
+  top: 20px;
+}
+
+.titlelink {
+  display: inline;
+  text-align: left;
+  font-weight: bold;
+}

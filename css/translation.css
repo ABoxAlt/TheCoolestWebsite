@@ -1,0 +1,76 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #b2cfd4;
+}
+#dbz1qoutes {
+  position: absolute;
+  top: 290px;
+}
+
+#dbz1panel {
+  position: absolute;
+  top: 200px;
+  left: 0px;
+}
+
+#dbz1img {
+  display: inline-block;
+}
+
+
+#dbz1head {
+  display: inline;
+  text-align: 50px;
+}
+.sect {
+  position: relative;
+  display: block;
+  margin-left: 40%;
+  height: 700px;
+}
+#dbz1loc {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+#dbz1Hloc {
+  position: absolute;
+  top: 0px;
+  left: 205px;
+}
+#titleHR {
+}
+#webpageTitle {
+  text-align: center;
+}
+
+.titlelink {
+  display: inline;
+  text-align: left;
+  font-weight: bold;
+}
+.dbz1text {
+  position: absolute;
+  top: 20px;
+  left: 205px;
+}
+.sect2 {
+  position: relative;
+  display: block;
+  margin-left: 40%;
+  height: 260px;
+}
+#ovenHead {
+  position: absolute;
+  left: 300px;
+}
+#ovenText {
+  position: absolute;
+  top: 40px;
+  left: 300px;
+}
+#ovenImg {
+  position: absolute;
+  top: 20px;
+}
